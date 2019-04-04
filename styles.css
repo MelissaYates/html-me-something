@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #444;
+  }
+
+  #header {
+    height: 230px;
+    background-image: url(https://livehealthyindia.in/wp-content/uploads/2018/08/healthy-food-choices.jpg);
+    background-repeat: no-repeat;
+    font-family: 'Shift', sans-serif;
+  }
+
+  #local {
+      font-weight: bold;
+      text-transform: uppercase;
+      color: white;
+
+  }
+
+  div.menu li{
+    font-weight: bold;
+    display: inline;
+    text-transform: uppercase;
+    margin-right: 14px;
+}
+div {
+    position: relative;
+    top: 100px;
+    left: 100px;
+}
